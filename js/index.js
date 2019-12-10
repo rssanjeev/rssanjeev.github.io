@@ -148,8 +148,8 @@ $(window).resize(onWindowResize);
 
 var profile;
 swal({
-		title: "Hello World!!!",
-		text: "Hello visitor, you have landed upon little webspace of moghya. I hope you're doing well."
+		title: "Hi!!!",
+		text: "Hello visitor, you have landed upon little webspace of Sanjeev. I hope you're doing well."
 		// buttons: ["Nope, I'm just looking around.", "Yes, I'm hiring :)"]
 		// buttons: {
 		// 	cancel: {
@@ -241,8 +241,8 @@ $.get("js/profile.json",
 		}
 		profile = data;
 		var pInfo = profile.personalInfo;
-		$('title').html(pInfo.nick+'|Portfolio');
-		$('#name').html(pInfo.fname+' '+pInfo.lname+'<sub>&lt'+pInfo.nick+'/&gt</sub>');
+		
+		$('#name').html(pInfo.fname+' '+pInfo.lname);
 		$('#image img').attr('src','img/'+pInfo.myimg);
 		$('#contact').html(pInfo.mob+'</br>'+pInfo.email);
 		$('#summary').html(profile.summary);
