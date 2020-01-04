@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="36"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="etl-process.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2463"
+       inkscape:persp3d-origin="16 : 10.666667 : 1"
+       inkscape:vp_z="32 : 16 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 16 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2548"
+       inkscape:persp3d-origin="16 : 10.666667 : 1"
+       inkscape:vp_z="32 : 16 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 16 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2632"
+       inkscape:persp3d-origin="16 : 10.666667 : 1"
+       inkscape:vp_z="32 : 16 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 16 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="73.403212"
+     inkscape:cy="23.886828"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     gridtolerance="5"
+     inkscape:window-width="1280"
+     inkscape:window-height="949"
+     inkscape:window-x="0"
+     inkscape:window-y="25">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2472"
+       visible="true"
+       enabled="true"
+       spacingx="2px"
+       spacingy="2px"
+       dotted="false"
+       empspacing="8" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-228.223,-412.36218)">
+    <g
+       id="g2466"
+       transform="matrix(0.5,0,0,0.5,259.223,424.36218)">
+      <g
+         id="background">
+	<rect
+   id="rect2455"
+   height="32"
+   width="32"
+   x="0"
+   y="0"
+   style="fill:none" />
+
+</g>
+      <g
+         id="arrow_x5F_right">
+	<polygon
+   id="polygon2458"
+   points="10,2.001 24,16 10,30 10,2.001 " />
+
+</g>
+    </g>
+    <g
+       id="g2551"
+       transform="translate(228.223,414.36218)">
+      <g
+         id="g2553">
+	<rect
+   id="rect2540"
+   height="32"
+   width="32"
+   x="0"
+   y="0"
+   style="fill:none" />
+
+</g>
+      <g
+         id="database">
+	<path
+   id="path2543"
+   d="M 29.998,4.999 C 30.025,4.727 29.793,3.284 27.896,2.148 C 26.012,0.997 22.598,0.004 16.001,0 C 9.402,0.004 5.988,0.997 4.103,2.148 C 2.207,3.283 1.975,4.726 2.002,4.999 L 2.002,4.999 L 2.002,27.739 C 1.967,28.092 2.307,29.367 4.178,30.264 C 6.045,31.19 9.416,31.994 16,32 C 22.582,31.994 25.955,31.19 27.82,30.264 C 29.693,29.367 30.033,28.091 29.998,27.739 L 29.998,4.999 L 29.998,4.999 z M 27.777,27.907 C 27.15,28.552 24.43,30.019 16,30 C 9.586,30.007 6.459,29.179 5.075,28.476 C 4.381,28.126 4.088,27.828 4,27.696 C 3.982,27.669 4.009,27.649 4.002,27.634 L 4,7.783 C 4.036,7.806 4.064,7.83 4.103,7.852 C 5.988,9.001 9.402,9.993 16.001,10 C 22.598,9.994 26.012,9.001 27.897,7.853 C 27.934,7.83 27.963,7.805 28,7.783 L 28,27.636 C 27.98,27.678 27.924,27.765 27.777,27.907 z" />
+
+</g>
+    </g>
+    <g
+       id="g2558"
+       transform="translate(324.223,414.36218)">
+      <g
+         id="g2560">
+	<rect
+   id="rect2562"
+   height="32"
+   width="32"
+   x="0"
+   y="0"
+   style="fill:none" />
+
+</g>
+      <g
+         id="g2564">
+	<path
+   id="path2566"
+   d="M 29.998,4.999 C 30.025,4.727 29.793,3.284 27.896,2.148 C 26.012,0.997 22.598,0.004 16.001,0 C 9.402,0.004 5.988,0.997 4.103,2.148 C 2.207,3.283 1.975,4.726 2.002,4.999 L 2.002,4.999 L 2.002,27.739 C 1.967,28.092 2.307,29.367 4.178,30.264 C 6.045,31.19 9.416,31.994 16,32 C 22.582,31.994 25.955,31.19 27.82,30.264 C 29.693,29.367 30.033,28.091 29.998,27.739 L 29.998,4.999 L 29.998,4.999 z M 27.777,27.907 C 27.15,28.552 24.43,30.019 16,30 C 9.586,30.007 6.459,29.179 5.075,28.476 C 4.381,28.126 4.088,27.828 4,27.696 C 3.982,27.669 4.009,27.649 4.002,27.634 L 4,7.783 C 4.036,7.806 4.064,7.83 4.103,7.852 C 5.988,9.001 9.402,9.993 16.001,10 C 22.598,9.994 26.012,9.001 27.897,7.853 C 27.934,7.83 27.963,7.805 28,7.783 L 28,27.636 C 27.98,27.678 27.924,27.765 27.777,27.907 z" />
+
+</g>
+    </g>
+    <g
+       id="g2635"
+       transform="translate(276.223,414.36218)">
+      <g
+         id="g2637">
+	<rect
+   id="rect2622"
+   height="32"
+   width="32"
+   y="0"
+   x="0"
+   style="fill:none" />
+
+</g>
+      <g
+         id="application">
+	<path
+   id="path2625"
+   style="fill:#ffffff;stroke:#1b1c20;stroke-width:2" />
+
+	<path
+   id="path2627"
+   d="M 32,14 L 32,12 L 21.894,12 C 23.191,10.73 23.999,8.96 24,7 C 23.998,3.134 20.866,0 17,0 C 13.134,0 10,3.134 10,7 C 10,10.732 12.923,13.772 16.604,13.98 L 12.585,18 L 0,18 L 0,20 L 10.109,20 C 8.81,21.27 8,23.04 8,25 C 8.002,28.865 11.135,31.998 15,32 C 18.865,31.998 21.998,28.865 22,25 C 21.998,21.269 19.074,18.229 15.394,18.021 L 19.414,14 L 32,14 z M 12,7 C 12.004,4.239 14.239,2.004 17,2 C 19.762,2.004 21.994,4.239 21.998,7 L 22,7 C 21.996,9.761 19.762,11.994 17,12 C 14.239,11.995 12.004,9.762 12,7 z M 20,25 C 19.996,27.762 17.761,29.996 15.001,30 C 12.24,29.996 10.006,27.762 10,25 C 10.006,22.239 12.24,20.005 15.001,20 C 17.761,20.005 19.996,22.24 20,25 z" />
+
+</g>
+    </g>
+    <g
+       id="g2663"
+       transform="matrix(0.5,0,0,0.5,309.223,424.36218)">
+      <g
+         id="g2665">
+	<rect
+   id="rect2667"
+   height="32"
+   width="32"
+   x="0"
+   y="0"
+   style="fill:none" />
+
+</g>
+      <g
+         id="g2669">
+	<polygon
+   id="polygon2671"
+   points="10,2.001 24,16 10,30 10,2.001 " />
+
+</g>
+    </g>
+  </g>
+</svg>

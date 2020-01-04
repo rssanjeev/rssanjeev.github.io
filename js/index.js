@@ -1,4 +1,4 @@
-function loadSkills(skills){
+/* function loadSkills(skills){
 		var i=0,j;
 		var skillsInnerHTML='';
 		while(i<skills.length){
@@ -15,6 +15,17 @@ function loadSkills(skills){
 			i=j;
 		}
 		$('#skills').html(skillsInnerHTML);
+} */
+function loadSkills(skills){
+	skills = skills.sort(function(a,b){
+		return a.sn-b.sn;
+	});
+	var i;
+	var skillsInnerHTML = '<h4></h4>';
+	for(i=0;i<skills.length;i++){
+		skillsInnerHTML+='<object type="image/svg+xml" data="img/'+skills[i].icon+'">'+skills[i].name+'</object>'
+	}
+	$('#skills').html(skillsInnerHTML);
 }
 
 function loadProjects(projects){
