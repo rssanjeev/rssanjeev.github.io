@@ -66,6 +66,30 @@
 					"courseName": "Advanced Database Management",
 					"courseScore": "94/100",
 					"sn": 4
+				},
+				{
+					"courseCode": "083",
+					"courseName": "Introduction to Data Science",
+					"courseScore": "94/100",
+					"sn": 4
+				},
+				{
+					"courseCode": "083",
+					"courseName": "Data Analysis & Decision Making",
+					"courseScore": "94/100",
+					"sn": 4
+				},
+				{
+					"courseCode": "083",
+					"courseName": "Data Analytics",
+					"courseScore": "94/100",
+					"sn": 4
+				},
+				{
+					"courseCode": "083",
+					"courseName": "Information Visualization",
+					"courseScore": "94/100",
+					"sn": 4
 				}
 			]
 		},
@@ -199,53 +223,23 @@
 	],
 	"experince": [
 		{
-			"sn": 6,
-			"link": "",
-			"workPosition": "Scout Troop Leader",
-			"periodStart": "April 2010",
-			"periodEnd": "May 2012",
-			"organisation": "JNV,Washim",
-			"experience": "It was nice to be a part of Scouting.Arranged camps,hikes and awareness rallies.",
-			"type": "volunteer"
-		},
-		{
-			"sn": 5,
-			"link": "http://wcepace.in/",
-			"workPosition": "Asst. Program Director in Events",
-			"periodStart": "April 2015",
-			"periodEnd": "March 2016",
-			"organisation": "Personality Advancement Circle of Engineers.",
-			"experience": "Learnt how to organize professional events and actvites, how to manage resources and make most out of everything.",
-			"type": "volunteer"
-		},
-		{
-			"sn": 4,
-			"link": "http://wcepace.in/",
-			"workPosition": "Joint. Skills Developer",
-			"periodStart": "April 2016",
-			"periodEnd": "January 2017",
-			"organisation": "Personality Advancement Circle of Engineers.",
-			"experience": "Good to arrange Meet ups for professional skill development of fellow PACErs.",
-			"type": "volunteer"
-		},
-		{
 			"sn": 3,
-			"link": "http://wcepace.in/",
-			"workPosition": "Cheif. Skills Developer",
-			"periodStart": "January 2017",
-			"periodEnd": "December 2017",
-			"organisation": "Personality Advancement Circle of Engineers.",
-			"experience": "Good to arrange Meet ups for professional skill development of fellow PACErs.",
-			"type": "volunteer"
+			"link": "https://www.cognizant.com/",
+			"workPosition": "Analyst - Database Management",
+			"periodStart": "Aug 2014",
+			"periodEnd": "Dec 2016",
+			"organisation": "Cognizant",
+			"experience": "<ul><li>• Ensured day to day performance of the client’s back-end database and made changes through complex SQL queries.</li><li>• Reworked on several stored procedures that resulted in a reduction of total run-time ranging from 10% to 50%.  </li><li>• Implemented the ‘One-Click Report’ feature that expedited the tenure report generation process by 90%.</li></ul>",
+			"type": "work"
 		},
 		{
 			"sn": 2,
-			"link": "http://pitchteq.com/",
-			"workPosition": "PHP Developer",
-			"periodStart": "July 2016",
-			"periodEnd": "Present",
-			"organisation": "PitchTeQ ",
-			"experience": "A group of college students established a web solutions startup. Worked on an e-commerce project.",
+			"link": "https://www.cognizant.com/",
+			"workPosition": "Associate - Big Data",
+			"periodStart": "Jan 2017",
+			"periodEnd": "Jan 2018",
+			"organisation": "Cognizant",
+			"experience": "<ul><li>• Oversaw a global banker’s clusters with numerous services such as MapReduce, HDFS, Yarn, and Sqoop. </li><li>• Analyzed cluster performance based on Disk Usage and CPU Usage using AppDynamics and  Ambari.</li><li>• Monitored Control Nodes, Data Nodes & Edge Nodes using Unix Command Line (Shell scripting) and Ambari UI provided by Horton Works and brainstorm any issue with the team to come up with a permanent fix. </li></ul>",
 			"type": "work"
 		},
 		{
@@ -447,11 +441,21 @@
 
 	],
 	"qoutes": [
-		"Your death is something that happens to everyone else.",
-		"You only live as long as the last person who remembers you.",
-		"Every day every hour turn the pain into power.",
-		"If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
-		"Tabs are better than spaces."
+		"Character consists of what you do on the third and fourth tries..",
+		"Winners never quit, and quitters never win.",
+		"It always seems impossible until it’s done.",
+		"It always seems impossible until it’s done.",
+		"There is no failure except in no longer trying.",
+		"You just can’t beat the person who won’t give up.",
+		"Never give up on something that you can’t go a day without thinking about.",
+		"Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.",
+		"Never give up, for that is just the place and time that the tide will turn.",
+		"You do what you can for as long as you can, and when you finally can’t, you do the next best thing. You back up but you don’t give up.",
+		"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+		"It does not matter how slowly you go as long as you do not stop",
+		"If you fall behind, run faster. Never give up, never surrender, and rise up against the odds.",
+		"Survival can be summed up in three words―never give up. That’s the heart of it really. Just keep trying.",
+		"Successful men and women keep moving. They make mistakes, but they don’t quit."
 	],
 	"helloText": "<p>Dear Visitor, Thank you for visiting my webspace.</p> <p>I’m a graduate student at Syracuse University’s School of Information Studies majoring in Applied Data Science and I'm in pursuit of a full-time opportunity in the field of Data Analytics. I completed  B.E. Electrican & Electronics Enginnering at <a href='https://www.annauniv.edu/'>Anna University</a>.</p> <p>I do Data Analysis (Retrospective & Prespective) & Machine Learning. I overwhelmingly like SQL, Python and R :)</p> <p>How can I help you?</br>I can design, develop and deliver technological solutions to your analytical problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
 }
