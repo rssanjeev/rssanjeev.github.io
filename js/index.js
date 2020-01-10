@@ -278,7 +278,7 @@ $.get("js/profile.json",
 		loadProjects(profile.projects);
 		loadWorks(profile.experince);
 		loadEducations(profile.educations);
-		loadMoghysSays();
+		/*loadMoghysSays();*/
 		console.log('body loaded calling');
 		onBodyLoad();
 });
