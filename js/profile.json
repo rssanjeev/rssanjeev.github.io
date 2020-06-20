@@ -5,7 +5,7 @@
 		"mname": "-",
 		"lname": "Ramasamy Seenivasagamani",
 		"address": {
-			"list": [" 926 Ackerman Ave, Syracuse, New York - 13210 "]
+			"list": [" 147 Brook Street Unit 2, Brookline, MA - 02445 "]
 		},
 		"email": "saramasa@syr.edu",
 		"mob": "+1 315 278 0599"
@@ -16,7 +16,7 @@
 			"periodStart": "Aug 2018",
 			"periodEnd": "May 2020",
 			"course": "M.Sc. Applied Data Science",
-			"score": "3.67 GPA",
+			"score": "3.71 GPA",
 			"inst": "School of Information Studies",
 			"board": "Syracuse University",
 			"courses": [{
@@ -64,7 +64,7 @@
 				{
 					"courseCode": "083",
 					"courseName": "Advanced Database Management",
-					"courseScore": "94/100",
+					"courseScore": "100/100",
 					"sn": 4
 				},
 				{
