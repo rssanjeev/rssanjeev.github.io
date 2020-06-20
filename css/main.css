@@ -180,6 +180,8 @@ a{
 .tabs .tab a.active {
 	color: white;
 	opacity: 1;
+	overflow-y: scroll;
+	
 }
 
 .tabs .tab a{
