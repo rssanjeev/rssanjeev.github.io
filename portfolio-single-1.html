@@ -164,10 +164,18 @@
                 </div>
               </div>
               <div class="col-md-6 pr-md-5">
+                <p>We aimed to derive a quantifiable relationship between financial news and stock prices and predict stock prices of a firm based on analysis of financial news of that firm. This would help investors and firms in understanding the impact of a particular news on stock prices the following day.</p>
+                <p>Akshita, Ruchita and I started our project based on this goal where we would analyze the financial news and derive a usable relationship to stock prices. So, we started working on our first task of data acquisition.</p>
+                <p>Since we didn’t want to use any of the existing dataset online (Kaggle) we started to discuss the possibility of creating our own data. The reason behind this is that the performance of our machine learning model would be truly tested only if the data is legit, with a lot of noise.</p>
                 <p>Predicted the magnitude of stock prices fluctuation based on analysis of financial news through ML pipelines. Scrapped financial news from multiple news websites like Yahoo Finance and NASDAQ from the URLs obtained from an API.</p>
               </div>
               <div class="col-md-6 pl-md-5">
-                <p> Performed regression analysis to obtain a quantifiable relationship between the sentiment score and stock price for the next day.</p>
+                <p>We leveraged multiple api’s to gather a list of urls that contain articles regarding three major tech firms namely IBM, Apple and Microsoft. Using the URL’s we scrapped the articles from the respective webites with the help of BeautifulSoup webscrapper.</p>
+                <p>Once, the data was at hand it was time to process it and send it through the machine learning pipeline. We were facing with a dilemma of whether to use the complete article of just the headline and the sub-text.</p>
+                <p>Later we decided to stick with just the headline and the sub-text as they capture the true essence of the article and in reality people make stock market decision mostly based on the news headlines and the summary of it.</p>
+                <p>Now, we turned our focus towards acquiring the stock prices for the entire duration the articles span. This was an easy task with the help of the Yahoo Finance Api.</p>
+                <p>As we now had everything at hand, we performed basic text noise reduction by removing stopwords and with a help of tf-idf vectorization we performed a Linear Regression on PySpark to determine the magnitude of the stock price fluctuation.</p>
+                <p>As an extension we also created a Logistic Regression to help the users with a heads-up whether the prices would go up or down. The latter model got the highest accuracy of 91% followed by the linear model with 72% accuracy.</p>
               </div>
             </div>
 
