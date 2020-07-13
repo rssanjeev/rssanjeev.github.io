@@ -165,11 +165,13 @@
               </div>
               <div class="col-md-6 pr-md-5">
                 <p>Complete Shiny App that predicts the medical condition based on the users’ symptoms using Naïve-Bayes, k-means & SVM.</p>
-                <p>Determined issues that led to such ratings/reviews through topic modeling using the LDA algorithm.</p>
+                <p>The primary goal of this project was to create an app that would assist physicians I determining the medical condition of the patients based on their symptoms and recommend appropriate drugs for them. </p>
+                <p>The data was obtained from a UC website where the customers who bought certain drugs provided their comment on why they bought it, what for and was it effective. We started working on the word usage and angle and moved towards using tf-idf vectors as features to determine the connection between the comments, drugs, ratings and the symptoms.</p>
               </div>
               <div class="col-md-6 pl-md-5">
-                <p>Recommend drugs for the patients’ medical conditions by analyzing the users’ review of the drugs’ effectiveness.</p>
-                <p>Deployed the final product on the R-Shiny server to be accessible to the world.</p>
+                <p>We started this processing by removing the stopwords and determined the number of unique drugs used. Since converting the comment into tf-idf vectors into features would spread the dataframe to its limits, we decided to work on just four medical conditions also considering the system performance limitations.</p>
+                <p>Moving on, we used multiple algorithms for this project so that we can narrow it down to 1. With different symptom different model performed well compared to the others.</p>
+                <p>So, we provided the result of all three. On a business level for future developments, we decided that the model with the highest accuracy along with the second most accuracy will be displayed for a second opinion perspective. The entire process was presented to the user through R Shiny app.</p>
               </div>
             </div>
 
