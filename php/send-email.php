@@ -31,12 +31,12 @@ if($_POST) {
    $mail->isSMTP();                        // Set mailer to use SMTP
    $mail->Host       = 'smtp.googlemail.com';    // Specify main SMTP server
    $mail->SMTPAuth   = true;               // Enable SMTP authentication
-   $mail->Username   = 'sanjeevishot@gmail.com';     // SMTP username
-   $mail->Password   = '9840095950';         // SMTP password
+   $mail->Username   = '***';     // SMTP username
+   $mail->Password   = '***';         // SMTP password
    $mail->SMTPSecure = 'tls';              // Enable TLS encryption, 'ssl' also accepted
    $mail->Port       = 587;                // TCP port to connect to
 
-   $mail->setFrom('sanjeevishot@gmail.com', trim(stripslashes($_POST['name']));           // Set sender of the mail
+   $mail->setFrom('sanjeev@gmail.com', trim(stripslashes($_POST['name']));           // Set sender of the mail
    $mail->addAddress('saramasa@syr.edu');           // Add a recipient
    //$mail->addAddress('receiver2@gfg.com', 'Name');   // Name is optional
    $mail->isHTML(true);                                  
